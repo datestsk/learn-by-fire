@@ -1,5 +1,5 @@
 {
-  "version": "v6",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v6/Learn-by-Fire.apk",
-  "notes": "İlk açılışta klasik intro; sonraki açılışlarda sırayla iki intro. Yeni videoda logosuz başlık ve 18. saniyede Geç butonu."
+  "version": "v7",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v7/Learn-by-Fire.apk",
+  "notes": "İsimle başlayan çalışma hatırlatmaları, 24 saat seçimi, okuma ve kelime ilerlemesi kaydı, yedek alma ve geri yükleme. Yeni intro kontrolleri aşağıya taşındı."
 }
