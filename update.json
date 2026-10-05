@@ -1,5 +1,5 @@
 {
-  "version": "v5",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v5/Learn-by-Fire.apk",
-  "notes": "Video arka planlı modern intro: ortada alev logosu, Learn by Fire başlığı ve video ile ilerleyen yüklenme animasyonu."
+  "version": "v6",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v6/Learn-by-Fire.apk",
+  "notes": "İlk açılışta klasik intro; sonraki açılışlarda sırayla iki intro. Yeni videoda logosuz başlık ve 18. saniyede Geç butonu."
 }
