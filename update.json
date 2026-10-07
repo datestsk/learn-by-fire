@@ -1,5 +1,5 @@
 {
-  "version": "v11",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v11/Learn-by-Fire.apk",
-  "notes": "Seviyeye göre kelime hatırlatmaları, çevrimdışı çeviri büyüteci ve sadeleştirilmiş ayarlar."
+  "version": "v12",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v12/Learn-by-Fire.apk",
+  "notes": "Ekran paylaşımı olmadan seçili metin çevirisi, küçük kenar çentiği, tam ekran düzeni ve başarı kartı paylaşım/kaydetme düzeltmeleri."
 }
