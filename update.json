@@ -1,5 +1,5 @@
 {
-  "version": "v18",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v18/Learn-by-Fire.apk",
-  "notes": "v18: yıl/dönem YDS katalogları, çevrimdışı testler, doğru/yanlış sesleri ve konfeti, erken bitirme, sonuç ve kayıtlı ilerleme."
+  "version": "v19",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v19/Learn-by-Fire.apk",
+  "notes": "v19: otomatik APK indirme barı, ana menüde Android kurulum onayı, 10 yeni hikâye ve 14 yeni makale."
 }
