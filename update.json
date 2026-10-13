@@ -1,5 +1,5 @@
 {
-  "version": "v28",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v28/Learn-by-Fire.apk",
-  "notes": "v28: GitHub üzerinden güncel intro ayarları, kalıcı video önbelleği, altta logo ve yüklenme halkası; yalnızca robot maskot."
+  "version": "v29",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v29/Learn-by-Fire.apk",
+  "notes": "v29: Intro kaynak hataları düzeltildi; doğrulanmış yedek video, indirme durumu, oynatma süresine göre Geç ve hata kaydı."
 }
