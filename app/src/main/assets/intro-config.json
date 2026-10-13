@@ -18,15 +18,15 @@
       "message": "Her gün küçük bir adım!",
       "skipAfterSeconds": 6,
       "startTime": "06:00",
-      "endTime": "10:00"
+      "endTime": "13:00"
     },
     {
       "id": "intro-3",
       "enabled": true,
-      "videoUrl": "https://www.image2url.com/r2/default/videos/1791877147758-99f75200-ea45-42f1-9e9f-66a378ffc0c9.mp4",
+      "videoUrl": "https://www.image2url.com/r2/default/videos/1791901870746-33a82bff-e3f8-470f-9ac2-5c5fa6ddf561.mp4",
       "message": "Her gün küçük bir adım!",
       "skipAfterSeconds": 6,
-      "startTime": "10:00",
+      "startTime": "13:00",
       "endTime": "00:00"
     }
   ]
