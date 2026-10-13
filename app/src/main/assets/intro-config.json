@@ -18,6 +18,15 @@
       "message": "Her gün küçük bir adım!",
       "skipAfterSeconds": 5,
       "startTime": "06:00",
+      "endTime": "10:00"
+    },
+    {
+      "id": "intro-3",
+      "enabled": true,
+      "videoUrl": "https://www.videotolink.io/api/r2/videotolink/videos/1791853648116-0b451a1b-ab9a-4a13-ab93-ba40525636e5.mp4",
+      "message": "Her gün küçük bir adım!",
+      "skipAfterSeconds": 5,
+      "startTime": "10:00",
       "endTime": "00:00"
     }
   ]
