@@ -1,5 +1,5 @@
 {
-  "version": "v29",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v29/Learn-by-Fire.apk",
-  "notes": "v29: Intro kaynak hataları düzeltildi; doğrulanmış yedek video, indirme durumu, oynatma süresine göre Geç ve hata kaydı."
+  "version": "v30",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v30/Learn-by-Fire.apk",
+  "notes": "v30: Şeffaf intro logosu, sabit Geç alanı ve eski intro kalıntısının kaldırılması."
 }
