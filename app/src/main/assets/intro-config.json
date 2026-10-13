@@ -5,7 +5,7 @@
     {
       "id": "intro-1",
       "enabled": true,
-      "videoUrl": "https://i.imgyukle.com/2026/10/13/SIHCSb.mp4",
+      "videoUrl": "https://www.image2url.com/r2/default/videos/1791877027056-8bfce641-2876-40a9-af4a-b57236d091de.mp4",
       "message": "Her gün küçük bir adım!",
       "skipAfterSeconds": 3,
       "startTime": "00:00",
@@ -14,18 +14,18 @@
     {
       "id": "intro-2",
       "enabled": true,
-      "videoUrl": "https://i.imgyukle.com/2026/10/13/SIHSBs.mp4",
+      "videoUrl": "https://www.image2url.com/r2/default/videos/1791877147758-99f75200-ea45-42f1-9e9f-66a378ffc0c9.mp4",
       "message": "Her gün küçük bir adım!",
-      "skipAfterSeconds": 5,
+      "skipAfterSeconds": 6,
       "startTime": "06:00",
       "endTime": "10:00"
     },
     {
       "id": "intro-3",
       "enabled": true,
-      "videoUrl": "https://www.videotolink.io/api/r2/videotolink/videos/1791853648116-0b451a1b-ab9a-4a13-ab93-ba40525636e5.mp4",
+      "videoUrl": "https://www.image2url.com/r2/default/videos/1791876856732-fe812ba5-9167-4509-afdb-f76406564aca.mp4",
       "message": "Her gün küçük bir adım!",
-      "skipAfterSeconds": 5,
+      "skipAfterSeconds": 6,
       "startTime": "10:00",
       "endTime": "00:00"
     }
