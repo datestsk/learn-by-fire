@@ -7,7 +7,7 @@
       "enabled": true,
       "videoUrl": "https://i.imgyukle.com/2026/10/13/SIHCSb.mp4",
       "message": "Her gün küçük bir adım!",
-      "skipAfterSeconds": 10,
+      "skipAfterSeconds": 3,
       "startTime": "00:00",
       "endTime": "06:00"
     },
