@@ -1,5 +1,5 @@
 {
-  "version": "v30",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v30/Learn-by-Fire.apk",
-  "notes": "v30: Şeffaf intro logosu, sabit Geç alanı ve eski intro kalıntısının kaldırılması."
+  "version": "v31",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v31/Learn-by-Fire.apk",
+  "notes": "v31: Güncel GitHub intro ayarını önbelleksiz al; eski gömülü videoya otomatik dönüşü kaldır."
 }
