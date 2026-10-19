@@ -1,5 +1,5 @@
 {
-  "version": "v38",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v38/Learn-by-Fire.apk",
-  "notes": "v38: Açılışta eski arayüzün kısa süre görünmesi düzeltildi. Arayüz, tüm düzenlemeler hazır olduğunda tek seferde gösterilir. V38 güncellemesinde öğretici bir kez otomatik gösterilir."
+  "version": "v39",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v39/Learn-by-Fire.apk",
+  "notes": "v39: Intro sırasında arka planda hazırlık, gerçekçi gündüz arka planı, sabit ayar başlığı ve tema ile bütünleşen üst çubuk. V39’a özel tek seferlik öğretici ve sağ üstte Geç düğmesi."
 }
