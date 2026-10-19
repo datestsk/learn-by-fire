@@ -16,7 +16,7 @@
       "enabled": true,
       "videoUrl": "https://www.image2url.com/r2/default/videos/1791877147758-99f75200-ea45-42f1-9e9f-66a378ffc0c9.mp4",
       "message": "Her gün küçük bir adım!",
-      "skipAfterSeconds": 6,
+      "skipAfterSeconds": 3,
       "startTime": "06:00",
       "endTime": "14:00"
     },
@@ -25,7 +25,7 @@
       "enabled": true,
       "videoUrl": "https://www.image2url.com/r2/default/videos/1791877027056-8bfce641-2876-40a9-af4a-b57236d091de.mp4",
       "message": "Her gün küçük bir adım!",
-      "skipAfterSeconds": 6,
+      "skipAfterSeconds": 3,
       "startTime": "14:00",
       "endTime": "18:00"
     },
@@ -34,7 +34,7 @@
       "enabled": true,
       "videoUrl": "https://www.image2url.com/r2/default/videos/1791902850425-a59171e6-69bd-42a2-8f6b-507c4c949eb7.mp4",
       "message": "Her gün küçük bir adım!",
-      "skipAfterSeconds": 6,
+      "skipAfterSeconds": 3,
       "startTime": "18:00",
       "endTime": "00:00"
     }
