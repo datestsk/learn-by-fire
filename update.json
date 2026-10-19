@@ -1,5 +1,5 @@
 {
-  "version": "v37",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v37/Learn-by-Fire.apk",
-  "notes": "v37: Uygulamalı öğretici, koyu temada hareketli yıldızlı ana menü, günlük kart görünürlük ayarı, kalıcı seviye filtreleri ve ayar/menü düzenlemeleri."
+  "version": "v38",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v38/Learn-by-Fire.apk",
+  "notes": "v38: Açılışta eski arayüzün kısa süre görünmesi düzeltildi. Arayüz, tüm düzenlemeler hazır olduğunda tek seferde gösterilir. V38 güncellemesinde öğretici bir kez otomatik gösterilir."
 }
