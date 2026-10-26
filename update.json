@@ -1,5 +1,5 @@
 {
-  "version": "v42",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v42/Learn-by-Fire.apk",
-  "notes": "v40: İki parmakla yazı boyutu öğreticisi, özel isim olmayan çeviri kelimesi ve sade kelime kataloğu başlıkları. V40’a özel tek seferlik öğretici. Arka plandan dönüşte intro tekrarı, arama konumu ve 29 Ekim kelime kartı renkleri düzenlendi."
+  "version": "v43",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v43/Learn-by-Fire.apk",
+  "notes": "v43: Kapak başlıkları alta taşındı. Sekiz metin arka planı, kalıcı seçim ve süslemelerden korunan okuma alanı eklendi."
 }
