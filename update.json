@@ -1,5 +1,5 @@
 {
-  "version": "v44",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v44/Learn-by-Fire.apk",
-  "notes": "v44: Yaklaşan kitap, açılan kapak ve sayfa sesi animasyonu. Arka plan yok seçeneği. Dekoratif arka plan yalnızca hikâye/makale okuma metnine uygulanır."
+  "version": "v46",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v46/Learn-by-Fire.apk",
+  "notes": "v46: Kapak görseli korunarak titreşimsiz tam ekran yaklaşma ve ardından sayfa açılışı. Çıkışta ters sayfa çevrimi, kapak kapanması ve kitabın listedeki yerine dönüşü."
 }
