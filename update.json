@@ -1,5 +1,5 @@
 {
-  "version": "v43",
-  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v43/Learn-by-Fire.apk",
-  "notes": "v43: Kapak başlıkları alta taşındı. Sekiz metin arka planı, kalıcı seçim ve süslemelerden korunan okuma alanı eklendi."
+  "version": "v44",
+  "apkUrl": "https://github.com/datestsk/learn-by-fire/releases/download/v44/Learn-by-Fire.apk",
+  "notes": "v44: Yaklaşan kitap, açılan kapak ve sayfa sesi animasyonu. Arka plan yok seçeneği. Dekoratif arka plan yalnızca hikâye/makale okuma metnine uygulanır."
 }
